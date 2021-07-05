@@ -52,7 +52,7 @@ Users should be able to:
 
 ### Continued development
 
-- I will now move to next level of FlexBox and will try to make regular projects for the same. Further, I will try to learn and add transitions also.
+I will now move to next level of FlexBox and will try to make projects for the same. Further, I will try to learn and add transitions also.
 
 
 
