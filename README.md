@@ -47,11 +47,12 @@ Users should be able to:
 
 ### What I learned
 
-
+- This project improved my FlexBox concepts.
+- I also learnt the basics for transform techniques. 
 
 ### Continued development
 
-
+- I will now move to next level of FlexBox and will try to make regular projects for the same. Further, I will try to learn and add transitions also.
 
 
 
